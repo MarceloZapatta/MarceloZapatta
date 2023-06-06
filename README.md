@@ -22,7 +22,7 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 
 [![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloZapatta&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-*This stats do not represent my skill level, just an stats based on my public repositories at github.
+*This stats do not represent my skill level, it's just stats based on my public repositories at github.
 
 ### Articles
 
