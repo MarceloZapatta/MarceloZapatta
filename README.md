@@ -38,3 +38,5 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 Badges: https://github.com/iuricode/readme-template/blob/main/badges/badges.md
 
 Visitors Count: https://github.com/antonkomarev/github-profile-views-counter
+
+Stats: https://github.com/anuraghazra/github-readme-stats
