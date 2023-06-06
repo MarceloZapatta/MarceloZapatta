@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello human 🧙‍♂️
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloZapatta&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript, TypeScript, Vue.JS and React.JS. If you wanna know more about my profile check my Linkedin profile.
 
@@ -18,6 +20,10 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+[![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloZapatta&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+*This stats do not represent my skill level, just an stats based on my public repositories at github.
+
 ### Articles
 
 [How to integrate Sentry in NestJS](https://dev.to/marcelozapatta/how-to-integrate-sentry-in-nestjs-3ema)
@@ -25,6 +31,7 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 ### Visitors Count
 
 ![Vistors count](https://komarev.com/ghpvc/?username=MarceloZapatta&color=blueviolet)
+
 
 ### Credits
 
