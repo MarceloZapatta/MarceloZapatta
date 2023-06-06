@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript, TypeScript, Vue.JS and React.JS.
+Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript, TypeScript, Vue.JS and React.JS. If you wanna know more about my profile check my Linkeding profile.
 
 ### Links
 
