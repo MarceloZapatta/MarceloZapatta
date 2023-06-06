@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloZapatta&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript, TypeScript, Vue.JS and React.JS. If you wanna know more about my profile check my Linkedin profile.
+Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript, TypeScript, Vue.JS and React.JS. If you wanna know more about my profile check my Linkedin.
 
 ### Links
 
