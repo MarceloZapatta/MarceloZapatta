@@ -18,7 +18,7 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 
 ### Articles
 
-![How to integrate Sentry in NestJS](https://dev.to/marcelozapatta/how-to-integrate-sentry-in-nestjs-3ema)
+[How to integrate Sentry in NestJS](https://dev.to/marcelozapatta/how-to-integrate-sentry-in-nestjs-3ema)
 
 ### Visitors Count
 
