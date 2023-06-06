@@ -16,6 +16,10 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+### Articles
+
+![How to integrate Sentry in NestJS](https://dev.to/marcelozapatta/how-to-integrate-sentry-in-nestjs-3ema)
+
 ### Visitors Count
 
 ![Vistors count](https://komarev.com/ghpvc/?username=MarceloZapatta)
