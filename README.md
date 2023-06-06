@@ -6,6 +6,8 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 
 [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelozapatta0@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-zapatta/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D741A7?style=for-the-badge&logo=linux&logoColor=black)](http://marcelozapatta.github.io/portfolio)
+[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/marcelozapatta)
 
 ### Main Skills
 
@@ -22,7 +24,7 @@ Welcome to my Github! I'm a Full Stack developer using PHP, Laravel, Javascript,
 
 ### Visitors Count
 
-![Vistors count](https://komarev.com/ghpvc/?username=MarceloZapatta)
+![Vistors count](https://komarev.com/ghpvc/?username=MarceloZapatta&color=blueviolet)
 
 ### Credits
 
